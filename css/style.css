@@ -131,7 +131,7 @@ video.frame__media_right {
 
 .audio-btn {
    position: fixed;
-   width: 25px;
+   width: 35px;
    bottom: 5vh;
    right: 5vw;
    cursor: pointer;
